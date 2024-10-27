@@ -9,7 +9,7 @@ import fs from "node:fs";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/LuroundApp/",
+  base: "/Luround_App/",
   server: {
     port: 3000,
     https: {
